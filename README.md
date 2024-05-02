@@ -44,5 +44,11 @@ I am a computer engineering student at the University of Waterloo. I'm passionat
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>**Currently open for Fall 2024 co-op opportunities!**
-<br>
+
+
+### github stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=robinrong1)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinrong1)](https://github.com/anuraghazra/github-readme-stats)
+
