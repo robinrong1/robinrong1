@@ -50,7 +50,7 @@ I am a computer engineering student at the University of Waterloo. I'm passionat
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
   
 </div>
-<br>**Currently open for Fall 2024 co-op opportunities!**
+<br>**Currently open for Summer 2025 co-op opportunities!**
 
 
 ### github stats
