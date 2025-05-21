@@ -20,7 +20,7 @@
 
 ---
 
-I am a computer engineering student at the University of Waterloo. I'm passionate about full stack web development and creating applications that optimize user experience. During my free time I enjoy doing calisthenics and reading. 
+I am a computer engineering student at the University of Waterloo. 
 <br><br>📫You can reach me at: [robinyrong@gmail.com]
 
 ---
@@ -50,7 +50,7 @@ I am a computer engineering student at the University of Waterloo. I'm passionat
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
   
 </div>
-<br>**Currently open for Summer 2025 co-op opportunities!**
+<br>**Currently open for Winter 2026 co-op opportunities!**
 
 
 ### github stats
